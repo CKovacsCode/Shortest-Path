@@ -16,8 +16,7 @@ import java.util.*;
 
 public class ShortestPath {
 
-	//No test cases pass but my output matches exactly what's expected *?* email prof
-	//output matches exact transcript
+	
 	public static void main(String[] args) throws FileNotFoundException{
 		// ask user for filename
 		Scanner input = new Scanner(System.in);
